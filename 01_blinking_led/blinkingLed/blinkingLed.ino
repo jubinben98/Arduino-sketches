@@ -1,8 +1,3 @@
-/***********************************************************
-File name:   01_blinkingLed.ino
-Description: LED blinks ON and OFF.
-Website: www.quadstore.in
-***********************************************************/
 int red_led = 13;
 int blue_led = 7;
 
